@@ -1,5 +1,4 @@
 # GzSpace
-Gz Space Information
 Update info:
 
 20210603:
