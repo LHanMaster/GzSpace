@@ -9,8 +9,8 @@
 
 [-]Deleted Nick module
 
-[.]Fixed Trmenu 
+[.]Fixed menus open commands
+ 
 -------------------------------------------------------------------------------------------------
-
 # ToDo
 [计划表](/toDo)
