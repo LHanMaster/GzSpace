@@ -9,7 +9,22 @@
 
 [-]Deleted Nick module
 
-[.]Fixed menus open commands
+[.]Fixed menu open commands
+
+
+`20210605:`
+
+[+]Added HideName
+
+[+]Added menu jingFuJiangLi
+
+[+]Added Kills Death counters
+
+[-]Delete member qd menu
+
+[-]Delete ChatColor menu
+
+[.]Fixed scoreboard and tab
  
 -------------------------------------------------------------------------------------------------
 # ToDo
