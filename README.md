@@ -28,7 +28,7 @@
 
 `20210606:`
 
-[+]Add / fix some plugins translation (Authme,CleanMotd,SuperVanish,StaffChat)
+[+]Add / fix some plugins translation (Authme,CleanMotd,SuperVanish,StaffChat,Essentials)
  
 -------------------------------------------------------------------------------------------------
 # ToDo
