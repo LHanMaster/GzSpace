@@ -16,7 +16,7 @@
 
 [+]Added HideName
 
-[+]Added menu JinFuJiangLi
+[-]Added menu JinFuJiangLi
 
 [+]Added Kills Death counters
 
