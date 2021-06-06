@@ -28,9 +28,8 @@
 
 `20210606:`
 
-[+]Add / fix some plugins translation (Authme,SuperVanish,StaffChat,Essentials)
- 
-[.]Change and Update Motd Plugins
+[+]Add / fix some plugins translation
+
 -------------------------------------------------------------------------------------------------
 # ToDo
 [计划表](/toDo)
