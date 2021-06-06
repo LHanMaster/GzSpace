@@ -25,6 +25,10 @@
 [-]Delete ChatColor menu
 
 [.]Fixed scoreboard and tab
+
+`20210606:`
+
+[+]Add / fix some plugins translation
  
 -------------------------------------------------------------------------------------------------
 # ToDo
