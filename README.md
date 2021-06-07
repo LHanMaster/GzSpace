@@ -16,8 +16,6 @@
 
 [+]Added HideName
 
-[-]Added menu JinFuJiangLi
-
 [+]Added Kills Death counters
 
 [-]Delete member qd menu
