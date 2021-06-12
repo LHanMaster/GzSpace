@@ -1,0 +1,13 @@
+name: Chat
+version: ${project.version}
+main: yukino__.yukino__.Yukino__
+api-version: 1.15
+authors: [ Yukino__ ]
+description: Chat
+commands:
+  staffchat:
+    description: 开启管理聊天
+  screload:
+    description: 重载插件
+  seniorchat:
+    description: 开启高级成员聊天

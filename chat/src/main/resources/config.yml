@@ -1,0 +1,11 @@
+StaffChat:
+  Prefix: "&8[&c管理聊天&8] "
+  DisableMsg: "&c您退出了管理频道"
+  Enable: "&a您加入了管理频道"
+  NoPermMsg: "&c您 不 配!"
+  
+SeniorChat:
+  Prefix: "&8[&a高级成员聊天&8] "
+  DisableMsg: "&c您退出了高级成员频道"
+  Enable: "&a您加入了高级成员频道"
+  NoPermMsg: "&c您 不 配!"
