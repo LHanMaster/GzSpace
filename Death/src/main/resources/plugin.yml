@@ -1,0 +1,11 @@
+name: Death
+version: ${project.version}
+main: yukino__.death.Death
+api-version: 1.15
+authors: [ Yukino__ ]
+commands:
+  deathback:
+    description: 获取玩家死亡坐标
+    usage: /<command> [player]
+    permission: <plugin name>.deathback
+    permission-message: 您没有使用该命令的权限
