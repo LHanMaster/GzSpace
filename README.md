@@ -1,28 +1,28 @@
 # GzSpace
-    A server which is worth 2 play
+    一个值得玩的服务器
 # Update
 ![](https://img.shields.io/badge/Update-info-red)
 
 `20210603:`
 
-[+]Added StaffChat
+[+]增加 管理聊天
 
-[-]Deleted Nick module
+[-]删除 Nick插件
 
-[.]Fixed menu open commands
+[.]修复 命令菜单
 
 
 `20210605:`
 
-[+]Added HideName
+[+]增加 隐藏ID
 
-[+]Added Kills Death counters
+[+]增加 击杀数和死亡数
 
-[-]Delete member qd menu
+[-]删除 普通成员签到菜单
 
-[-]Delete ChatColor menu
+[-]删除 聊天颜色菜单
 
-[.]Fixed scoreboard and tab
+[.]修复 计分版和TAB
 
 `20210606:`
 
@@ -39,6 +39,7 @@
 [-]移除 生存服中的跨版本插件以及Geyser
 
 [.]变更 Waterfall子服
+
 -------------------------------------------------------------------------------------------------
 # ToDo
 [计划表](/toDo)
