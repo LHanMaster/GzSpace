@@ -28,10 +28,10 @@
 
   [Yukino__ 灵寒](https://github.com/LHanMaster)
 
-  [FYlowery 卿雪](https://github.com/FYlowery)
+  [YFlowery 卿雪](https://github.com/YFlowery)
 
 `Supervisor:`
-
+Nope
 
 
 # Update Log
@@ -66,8 +66,10 @@
 
 [+]增加 登录大厅与主大厅
 
+[+]增加 BC中的公告插件
+
 [-]移除 生存服中与BC插件功能相同的部分插件
 
-[-]移除 生存服中的跨版本插件以及Geyser
+[-]移除 生存服中的跨版本插件以及Geyser(跨平台)
 
 [.]变更 从单一服务端变更为Waterfall群组服
