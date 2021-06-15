@@ -20,8 +20,8 @@
 
   [YFlowery 卿雪](https://github.com/YFlowery)
 
-`Supervisor:`
-Nope
+`Supervisitor:`
+暂无
 
 
 # Update Log
@@ -63,3 +63,5 @@ Nope
 [-]移除 生存服中的跨版本插件以及Geyser(跨平台)
 
 [.]变更 从单一服务端变更为Waterfall群组服
+
+同步至0615的Release
