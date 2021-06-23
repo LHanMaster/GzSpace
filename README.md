@@ -19,11 +19,9 @@
 
   [Yukino__ 灵寒](https://github.com/LHanMaster)
 
-  [YFlowery 卿雪](https://github.com/YFlowery)
-
 `Supervisitor:`
 
-暂无
+  [YFlowery 卿雪](https://github.com/YFlowery)
 
 
 # Update Log
